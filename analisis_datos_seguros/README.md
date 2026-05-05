@@ -157,8 +157,10 @@ jupyter lab ANALISIS_EXP_DATOS_PY_SENA.ipynb
 
 **Juan Pablo Lopez Rodriguez**
 Ingenierio en sistemas - Desarrollador Fullstack
-Aprendiz SENA · Tecnología en Análisis y Desarrollo de Software
-📧 lopezpablorodriguez.117@gmail.com · 🔗 [tu LinkedIn si tienes]
+
+Aprendiz SENA · Análisis exploratorio de datos con Python
+
+📧 lopezpablorodriguez.117@gmail.com · 🔗 www.linkedin.com/in/juan-pablo-lopez-rodriguez-6b75573b1 
 
 ---
 
