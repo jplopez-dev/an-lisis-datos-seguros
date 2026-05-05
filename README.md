@@ -104,14 +104,14 @@ de edad en rangos
 ---
 
 ## 🧑‍💼 Perfil del Cliente Ideal
-┌─────────────────────────────────────────────┐
-│          CLIENTE DE MAYOR POTENCIAL         │
-│                                             │
-│   🚬 Fumador        → valor ~4x superior    │
-│   👴 60+ años       → mayor valor promedio  │
-│   ⚖️  IMC alto       → incrementa el precio │
-│   📍 Cundinamarca   → región líder           │
-└─────────────────────────────────────────────┘
+
+    CLIENTE DE MAYOR POTENCIAL         
+                                           
+🚬 Fumador        → valor ~4x superior    
+👴 60+ años       → mayor valor promedio  
+⚖️  IMC alto       → incrementa el precio 
+📍 Cundinamarca   → región líder           
+
 ---
 
 ## 🛠️ Tecnologías
