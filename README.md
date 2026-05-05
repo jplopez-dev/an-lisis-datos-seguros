@@ -140,10 +140,6 @@ pip install pandas matplotlib seaborn
 jupyter lab ANALISIS_EXP_DATOS_PY_SENA.ipynb
 ```
 
-O ábrelo directamente en Google Colab:
-
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
 ---
 
 ## 📚 Contexto Académico
